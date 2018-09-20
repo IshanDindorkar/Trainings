@@ -1,5 +1,6 @@
 # Install NodeJS
 ### https://nodejs.org/en/
+### Update proxy settings for NPM manager - https://jjasonclark.com/how-to-setup-node-behind-web-proxy/
 
 # Install VS Code
 ### https://code.visualstudio.com/
